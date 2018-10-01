@@ -1,3 +1,7 @@
-Hi I am utkarsha here
+
+Hi I am utkarsha 
+
+ utkarsha here
+>>>>>>> bug123
 Working on Git 
 And 
